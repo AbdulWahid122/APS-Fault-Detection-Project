@@ -16,3 +16,5 @@ pandas
 PyYAML
 numpy
 scikit-learn
+setuptools
+-e.
